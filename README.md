@@ -11,7 +11,7 @@ status lampu, dan setiap lampu berubah status, notifikasi Telegram
 terkirim (maksimal 1 pesan per 5 detik).
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/RhxapjbZe6k
 
 ## Komponen
 
